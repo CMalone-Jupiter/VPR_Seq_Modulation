@@ -1,4 +1,4 @@
-# VPR_Seq_Modulation
+# Dynamically Modulating VPR Sequence Length
 
 Currently the code uploaded is research quality code. We are working on making it more accessible and readable when possible.
 
