@@ -12,14 +12,14 @@ Mobile robots and autonomous vehicles are often required to function in environm
 ### Cite
 If this repository contributes to your research, please consider citing the publication below.
 ```
-C. Malone, A. Vora, T. Peynot and M.Milford, "Dynamically Modulating Visual Place Recognition Sequence Length For Minimum Acceptable Performance Scenarios," in IEEE/RSJ International Conference on Intelligent Robots and Systems, Oct 2024.
+C. Malone, A. Vora, T. Peynot and M.Milford, "Dynamically Modulating Visual Place Recognition Sequence Length For Minimum Acceptable Performance Scenarios," in the IEEE/RSJ International Conference on Intelligent Robots and Systems, Oct 2024.
 ```
 #### Bibtex
 ```
-@article{malone2024dynamically,
+@inproceedings{malone2024dynamically,
   title={Dynamically Modulating Visual Place Recognition Sequence Length For Minimum Acceptable Performance Scenarios},
   author={Malone, Connor and Vora, Ankit and Peynot, Thierry and Milford, Michael},
-  journal={IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   year={2024}
 }
 ```
